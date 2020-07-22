@@ -13,3 +13,4 @@ Notes:
 2. angular 2 and next versions.
 3. All those mandatory packages are required.
 4. Some default user rooms are made in system.
+5. Run on two tabs or two browser's window for chatting to each other.
